@@ -1,14 +1,14 @@
 {
   "name": "adapt-stacklist",
   "description": "Items fly in one at a time, alternating from left to right, when the learner clicks a button. Demo available.",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "framework": ">=4",
   "displayName": "Stack List",
   "component": "stacklist",
   "main": "/js/adapt-stacklist.js",
-  "homepage": "https://github.com/danielstorey/adapt-stacklist",
-  "repository": "git://github.com/danielstorey/adapt-stacklist.git",
-  "issues": "https://github.com/danielstorey/adapt-stacklist/issues",
+  "homepage": "https://github.com/saga-nfon/adapt-stacklist",
+  "repository": "git://github.com/saga-nfon/adapt-stacklist.git",
+  "issues": "https://github.com/saga-nfon/adapt-stacklist/issues",
   "keywords": [
     "adapt-plugin",
     "adapt-component"
